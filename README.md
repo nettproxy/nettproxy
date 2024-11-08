@@ -12,6 +12,9 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
          <img alt="gay" title="gay" src="https://img.shields.io/badge/im%20gay%20btw-ffa6ed?style=for-the-badge&color=ffa6ed&labelColor=ff6ee9&label=:3"/></a>
    </p>
 
+> [!IMPORTANT]
+> im highly autistic
+
 ---
 
 ### 🧰 Languages and Tools
