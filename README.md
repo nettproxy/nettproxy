@@ -5,7 +5,6 @@
 Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on the internet and just code stuff, ig uess.
 
    <p align="left">
-      <a href="https://github.com/monokaiidev/triage-webscraper">
          <img alt="github view" title="views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&color=ff94ef&label=:3%20views&label_color=ff94ef&color=ffa6ed"/></a> 
          <img alt="github stars" title="stars" src="https://img.shields.io/github/stars/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20webscraper%20stars&color=ffa6ed&labelColor=ff6ee9"/></a> 
          <img alt="comms" title="Total commits on GitHub a week" src="https://img.shields.io/github/commit-activity/w/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20commits&color=ffa6ed&labelColor=ff6ee9"/>
