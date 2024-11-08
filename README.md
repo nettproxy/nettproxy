@@ -9,6 +9,7 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
          <img alt="github views" title="Profile views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&labelColor=#ffa1eb"/></a> 
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/monokaiidev?color=55960c&style=for-the-badge&labelColor=488207&logo=sta"/></a>   
          <img alt="contributors" title="Contributors" src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"/></a>
+         <img alt="issues" title="issues" src="https://img.shields.io/github/issues/monokaiidev/triage-webscraper?colorA=363a4f&colorB=f5a97f&style=for-the-badge"/></a>
    </p>
 
 ---
@@ -23,12 +24,16 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
 <img align="left" alt="DiscordJS" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" />
 <br />
 
+### ✨ Projects
+   <p align="left">
+      Coming soon!
+
 #
 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=#ff0000&text_color=#fff&title_color=#ff0000)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokaiidev&show_icons=true&theme=catppuccin_mocha)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
