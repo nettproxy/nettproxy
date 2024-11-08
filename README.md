@@ -9,7 +9,7 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
          <img alt="github stars" title="stars" src="https://img.shields.io/github/stars/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20webscraper%20stars&color=ffa6ed&labelColor=ff6ee9"/></a> 
          <img alt="comms" title="Total commits on GitHub a week" src="https://img.shields.io/github/commit-activity/w/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20commits&color=ffa6ed&labelColor=ff6ee9"/>
          <img alt="pr" title="issues" src="https://img.shields.io/github/issues-pr/monokaiidev/triage-webscraper?style=for-the-badge&color=ffa6ed&label=:3%20pr&labelColor=ff6ee9"/></a>
-         <img alt="gay" title="gay" src="https://img.shields.io/badge/im%20gay%20btw-ffa6ed?style=for-the-badge&color=ffa6ed&labelColor=ff6ee9"/></a>
+         <img alt="gay" title="gay" src="https://img.shields.io/badge/im%20gay%20btw-ffa6ed?style=for-the-badge&color=ffa6ed&labelColor=ff6ee9&label=:3"/></a>
    </p>
 
 ---
