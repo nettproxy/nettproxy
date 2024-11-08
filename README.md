@@ -7,7 +7,8 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
    <p align="left">
       <a href="https://www.youtube.com/c/fknight">
          <img alt="github views" title="Profile views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&labelColor=#ffa1eb"/></a> 
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/monokaiidev?color=55960c&style=for-the-badge&labelColor=488207&logo=sta"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/monokaiidev?color=55960c&style=for-the-badge&labelColor=488207&logo=sta"/></a>   
+         <img alt="contributors" title="Contributors" src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"/></a>
    </p>
 
 ---
@@ -27,7 +28,7 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokaiidev&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokaiidev&show_icons=true&bg_color={{p.base.hex}}&text_color={{p.text.hex}}&icon_color={{p.mauve.hex}}&title_color={{p.teal.hex}})
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
