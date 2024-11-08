@@ -6,11 +6,11 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
 
    <p align="left">
       <a href="https://github.com/monokaiidev/triage-webscraper">
-         <img alt="github views" title="Profile views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&labelColor=#ffa1eb"/></a> 
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/monokaiidev?color=55960c&style=for-the-badge&labelColor=488207&logo=sta"/></a>   
-         <img alt="contributors" title="Contributors" src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"/></a>
-         <img alt="issues" title="issues" src="https://img.shields.io/github/issues/monokaiidev/triage-webscraper?colorA=363a4f&colorB=f5a97f&style=for-the-badge"/></a>
-         <img alt="gay" title="gay" src="https://img.shields.io/badge/im%20gay%20btw-ffa6ed"/></a>
+         <img alt="github stars" title="stars" src="https://img.shields.io/github/stars/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20webscraper%20stars&labelColor=ff94ef&color=ffa6eda>"
+         <img alt="github view" title="views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&color=ff94ef&label=:3%20views&label_color=ff94ef&color=ffa6ed"/></a> 
+         <img alt="comms" title="Total commits on GitHub a week" src="https://img.shields.io/github/commit-activity/w/monokaiidev/triage-webscraper?style=for-the-badge&label=%3A3%20commits&labelColor=ff94ef&color=ffa6ed"/>
+         <img alt="pr" title="issues" src="https://img.shields.io/github/issues-pr/monokaiidev/triage-webscraper?style=for-the-badge&color=ffa6ed&label=:3%20pr&labelColor=ff6ee9"/></a>
+         <img alt="gay" title="gay" src="https://img.shields.io/badge/im%20gay%20btw-ffa6ed?style=for-the-badge&color=ffa6ed&labelColor=ff6ee9"/></a>
    </p>
 
 ---
