@@ -28,7 +28,7 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokaiidev&show_icons=true&bg_color={{p.base.hex}}&text_color={{p.text.hex}}&icon_color={{p.mauve.hex}}&title_color={{p.teal.hex}})
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokaiidev&show_icons=true&theme=catppuccin-macchiato)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
