@@ -2,7 +2,7 @@
 
 **`Backend and Frontend Developer`**
 
-Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on the internet and just code stuff, ig uess.
+Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on the internet and work with stupid hard/software.
 
    <p align="left">
          <img alt="github view" title="views" src="https://komarev.com/ghpvc/?username=monokaiidev&style=for-the-badge&color=ff94ef&label=:3%20views&label_color=ff94ef&color=ffa6ed"/></a> 
@@ -38,7 +38,7 @@ Hello, I'm monokai! I'm a developer from Germany, wanting to do nice stuff on th
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettproxy&show_icons=true&theme=catppuccin_moch)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettproxy&show_icons=true&theme=catppuccin_mocha)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
